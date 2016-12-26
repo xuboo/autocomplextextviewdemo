@@ -56,5 +56,6 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     @Override
     public void onClick(View v) {
         check_auto_tv.setText("");
+        check_btn.setVisibility(View.GONE);
     }
 }
