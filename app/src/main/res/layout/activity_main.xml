@@ -19,6 +19,12 @@
         android:layout_height="wrap_content"
         android:text="清空"
         android:visibility="invisible"/>
+    
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/check_auto_tv"
+        android:src="@mipmap/ic_launcher"/>
 
     <ImageView
         android:id="@+id/robot1"
