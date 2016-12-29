@@ -28,10 +28,14 @@
         android:src="@mipmap/ic_launcher"/>
 
     <ImageView
+
         android:id="@+id/robot2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/robot1"
         android:src="@mipmap/ic_launcher"/>
+    
+
+
 
 </RelativeLayout>
